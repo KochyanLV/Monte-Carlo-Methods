@@ -1,0 +1,1 @@
+Course work on the subject "Numerical methods" on the topic "Monte Carlo method.  Application of the method for numerical solution of partial differential equations and calculation of multiple integrals"
